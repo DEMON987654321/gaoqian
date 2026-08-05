@@ -1,0 +1,1424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>搞钱的技术人</title>
+    <link>https://github.com/DEMON987654321/gaoqian</link>
+    <description>给搞技术的人讲怎么搞钱——专利、融资、技术转移、成果变现的实战干货。100集播客系列，AI声音克隆技术制作。</description>
+    <language>zh-cn</language>
+    <itunes:author>大王乱说话</itunes:author>
+    <itunes:summary>给搞技术的人讲怎么搞钱——专利、融资、技术转移、成果变现的实战干货。100集播客系列，AI声音克隆技术制作。</itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="Business">
+      <itunes:category text="Entrepreneurship"/>
+    </itunes:category>
+    <itunes:category text="Education">
+      <itunes:category text="Business"/>
+    </itunes:category>
+    <itunes:image href="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/cover.jpg" />
+    <itunes:owner>
+      <itunes:name>大王乱说话</itunes:name>
+      <itunes:email>644616136@qq.com</itunes:email>
+    </itunes:owner>
+    <item>
+      <title>你的灵感凭什么算你的——从凌晨三点的想法到法律承认的独占资产</title>
+      <itunes:title>你的灵感凭什么算你的——从凌晨三点的想法到法律承认的独占资产</itunes:title>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>凌晨四点半爬起来写的三千字灵感，法律面前可能连同学群里的“加油”都不如。想知道凭什么？从灵感怎么变成法律承认的独占资产，到申请专利前你必须搞懂的底层逻辑，这集给你捋明白，别让你的点子白瞎。</description>
+      <content:encoded><![CDATA[<p>凌晨四点半爬起来写的三千字灵感，法律面前可能连同学群里的“加油”都不如。想知道凭什么？从灵感怎么变成法律承认的独占资产，到申请专利前你必须搞懂的底层逻辑，这集给你捋明白，别让你的点子白瞎。</p>]]></content:encoded>
+      <itunes:duration>35:16</itunes:duration>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S01E01.mp3" length="50784000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S01E01.mp3</guid>
+    </item>
+    <item>
+      <title>怎么从发明人脑子里挖出技术交底书的提问术</title>
+      <itunes:title>怎么从发明人脑子里挖出技术交底书的提问术</itunes:title>
+      <itunes:episode>2</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>发明人一脸真诚地说“我们做了个智能系统”，然后就没了——血压是不是瞬间飙升？专利申请拆开有十个零件，怎么从发明人脑子里把干货挖出来、问什么怎么问，这集手把手教你，别再被技术骨干气出心梗。</description>
+      <content:encoded><![CDATA[<p>发明人一脸真诚地说“我们做了个智能系统”，然后就没了——血压是不是瞬间飙升？专利申请拆开有十个零件，怎么从发明人脑子里把干货挖出来、问什么怎么问，这集手把手教你，别再被技术骨干气出心梗。</p>]]></content:encoded>
+      <itunes:duration>26:25</itunes:duration>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S01E02.mp3" length="38040000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S01E02.mp3</guid>
+    </item>
+    <item>
+      <title>一页权利要求书写好了就能躺赚二十年，写错了白干</title>
+      <itunes:title>一页权利要求书写好了就能躺赚二十年，写错了白干</itunes:title>
+      <itunes:episode>3</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>一句“包括处理器、存储器和通信模块”，覆盖了全地球所有智能设备——也等于什么都没写。权利要求书写对了能躺赚二十年，写错了白干，一页纸决定专利的生死。这集用两个极端案例讲明白，什么叫含金量、什么叫废话。</description>
+      <content:encoded><![CDATA[<p>一句“包括处理器、存储器和通信模块”，覆盖了全地球所有智能设备——也等于什么都没写。权利要求书写对了能躺赚二十年，写错了白干，一页纸决定专利的生死。这集用两个极端案例讲明白，什么叫含金量、什么叫废话。</p>]]></content:encoded>
+      <itunes:duration>22:47</itunes:duration>
+      <pubDate>Sat, 08 Aug 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S01E03.mp3" length="32808000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S01E03.mp3</guid>
+    </item>
+    <item>
+      <title>被人用专利卡脖子怎么办，大王教你合法拆解反击</title>
+      <itunes:title>被人用专利卡脖子怎么办，大王教你合法拆解反击</itunes:title>
+      <itunes:episode>4</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>产品打磨一年刚要上市，一封律师函拍桌上：你侵权了。慌不慌？别急着交许可费，也别急着放弃产品线。专利不是只能被动挨打，怎么合法拆解、怎么反击，这集教你一把叫“无效宣告”的大刀。</description>
+      <content:encoded><![CDATA[<p>产品打磨一年刚要上市，一封律师函拍桌上：你侵权了。慌不慌？别急着交许可费，也别急着放弃产品线。专利不是只能被动挨打，怎么合法拆解、怎么反击，这集教你一把叫“无效宣告”的大刀。</p>]]></content:encoded>
+      <itunes:duration>18:38</itunes:duration>
+      <pubDate>Sun, 09 Aug 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S01E04.mp3" length="26832000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S01E04.mp3</guid>
+    </item>
+    <item>
+      <title>专利申请文件里到底藏了什么门道，拆开给你看</title>
+      <itunes:title>专利申请文件里到底藏了什么门道，拆开给你看</itunes:title>
+      <itunes:episode>5</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>为了省几千块代理制图费，用PPT画专利附图，结果图里标号对不上、箭头指不明白，申请直接废了。专利申请文件里每个零件都有讲究，哪些是命根子、哪些是走过场，这集拆给你看，别让省钱变成最贵的操作。</description>
+      <content:encoded><![CDATA[<p>为了省几千块代理制图费，用PPT画专利附图，结果图里标号对不上、箭头指不明白，申请直接废了。专利申请文件里每个零件都有讲究，哪些是命根子、哪些是走过场，这集拆给你看，别让省钱变成最贵的操作。</p>]]></content:encoded>
+      <itunes:duration>16:53</itunes:duration>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S01E05.mp3" length="24312000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S01E05.mp3</guid>
+    </item>
+    <item>
+      <title>专利附图不是儿童画，画好了能顶一半权利要求</title>
+      <itunes:title>专利附图不是儿童画，画好了能顶一半权利要求</itunes:title>
+      <itunes:episode>6</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>吭哧吭哧研发半年，又花三个月写申请，交完代理费开酒庆祝，三个月后审查意见书打脸：不具备新颖性和创造性。冤不冤？专利附图不是儿童画，画好了能顶半篇权利要求。这集讲附图里藏的门道，让你别在细节上翻车。</description>
+      <content:encoded><![CDATA[<p>吭哧吭哧研发半年，又花三个月写申请，交完代理费开酒庆祝，三个月后审查意见书打脸：不具备新颖性和创造性。冤不冤？专利附图不是儿童画，画好了能顶半篇权利要求。这集讲附图里藏的门道，让你别在细节上翻车。</p>]]></content:encoded>
+      <itunes:duration>16:17</itunes:duration>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S01E06.mp3" length="23448000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S01E06.mp3</guid>
+    </item>
+    <item>
+      <title>专利被驳回别慌，怎么跟审查员过招把它救回来</title>
+      <itunes:title>专利被驳回别慌，怎么跟审查员过招把它救回来</itunes:title>
+      <itunes:episode>7</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>专利被驳回，别慌，驳回不等于死刑——高通、大疆的核心专利哪个没被驳回过？审查意见通知书来了，怎么跟审查员过招、怎么组织权利要求结构、怎么把专利从坑里救回来，这集给你拆招数，别再一看驳回通知就心态崩了。</description>
+      <content:encoded><![CDATA[<p>专利被驳回，别慌，驳回不等于死刑——高通、大疆的核心专利哪个没被驳回过？审查意见通知书来了，怎么跟审查员过招、怎么组织权利要求结构、怎么把专利从坑里救回来，这集给你拆招数，别再一看驳回通知就心态崩了。</p>]]></content:encoded>
+      <itunes:duration>16:06</itunes:duration>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S01E07.mp3" length="23184000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S01E07.mp3</guid>
+    </item>
+    <item>
+      <title>申请前必须先检索，否则白花钱还可能自废武功</title>
+      <itunes:title>申请前必须先检索，否则白花钱还可能自废武功</itunes:title>
+      <itunes:episode>8</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>中国发明专利授权率只有五成左右，一半申请被驳回过，但驳回不等于死。申请之前不检索，等于闭着眼往墙上撞——白花钱是小事，还可能自废武功。这集讲申请前检索怎么做、怎么读出对手的底牌，少走弯路。</description>
+      <content:encoded><![CDATA[<p>中国发明专利授权率只有五成左右，一半申请被驳回过，但驳回不等于死。申请之前不检索，等于闭着眼往墙上撞——白花钱是小事，还可能自废武功。这集讲申请前检索怎么做、怎么读出对手的底牌，少走弯路。</p>]]></content:encoded>
+      <itunes:duration>9:11</itunes:duration>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S01E08.mp3" length="13224000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S01E08.mp3</guid>
+    </item>
+    <item>
+      <title>一个专利是手枪一堆是航母，专利布局的战略思维</title>
+      <itunes:title>一个专利是手枪一堆是航母，专利布局的战略思维</itunes:title>
+      <itunes:episode>9</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>花四十万拿下核心专利，朋友圈刚发完“壁垒已建立”，投资人一句“就这一件？”问得创始人眼珠瞪圆。单个专利是手枪，一堆才是航母。这集讲专利布局的战略思维，别让壁垒变成靶子。</description>
+      <content:encoded><![CDATA[<p>花四十万拿下核心专利，朋友圈刚发完“壁垒已建立”，投资人一句“就这一件？”问得创始人眼珠瞪圆。单个专利是手枪，一堆才是航母。这集讲专利布局的战略思维，别让壁垒变成靶子。</p>]]></content:encoded>
+      <itunes:duration>18:33</itunes:duration>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S01E09.mp3" length="26712000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S01E09.mp3</guid>
+    </item>
+    <item>
+      <title>说明书怎么写才能让审查员挑不出毛病，现场示范</title>
+      <itunes:title>说明书怎么写才能让审查员挑不出毛病，现场示范</itunes:title>
+      <itunes:episode>10</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>第一季收官，把视角拉高——单个专利再硬，商业战场上也就是把手枪。说明书、权利要求书写得再漂亮，不会布局照样被投资人一句话问傻：就这一件？这集从说明书怎么写讲到十件专利怎么组成一支军队，收尾给你点干货。</description>
+      <content:encoded><![CDATA[<p>第一季收官，把视角拉高——单个专利再硬，商业战场上也就是把手枪。说明书、权利要求书写得再漂亮，不会布局照样被投资人一句话问傻：就这一件？这集从说明书怎么写讲到十件专利怎么组成一支军队，收尾给你点干货。</p>]]></content:encoded>
+      <itunes:duration>7:53</itunes:duration>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S01E10.mp3" length="11352000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S01E10.mp3</guid>
+    </item>
+    <item>
+      <title>你写的BP投资人为什么不看，因为那不是作文是战书</title>
+      <itunes:title>你写的BP投资人为什么不看，因为那不是作文是战书</itunes:title>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>2</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>每年五百多份BP砸过来，优秀的那5%才能在我手机里活过3分钟，剩下的30秒就划走了。你的BP不是作文，是战书。这集就聊一件事：怎么让你的BP活过前30秒，别让几个月的积累死在手指一划上。</description>
+      <content:encoded><![CDATA[<p>每年五百多份BP砸过来，优秀的那5%才能在我手机里活过3分钟，剩下的30秒就划走了。你的BP不是作文，是战书。这集就聊一件事：怎么让你的BP活过前30秒，别让几个月的积累死在手指一划上。</p>]]></content:encoded>
+      <itunes:duration>26:53</itunes:duration>
+      <pubDate>Sun, 16 Aug 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S02E01.mp3" length="38712000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S02E01.mp3</guid>
+    </item>
+    <item>
+      <title>从“我有个想法”到“我们还活着”，五步孵化全流程</title>
+      <itunes:title>从“我有个想法”到“我们还活着”，五步孵化全流程</itunes:title>
+      <itunes:episode>2</itunes:episode>
+      <itunes:season>2</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>有人BP写了15页，语音识别准确率98%，结果原型都没做过，对着垃圾桶喊一句“打开盖子”都没有。别一上来就写BP，先打一套“五步孵化法”的组合拳。这集把从想法到活着的全流程捋一遍，打完了BP才有灵魂。</description>
+      <content:encoded><![CDATA[<p>有人BP写了15页，语音识别准确率98%，结果原型都没做过，对着垃圾桶喊一句“打开盖子”都没有。别一上来就写BP，先打一套“五步孵化法”的组合拳。这集把从想法到活着的全流程捋一遍，打完了BP才有灵魂。</p>]]></content:encoded>
+      <itunes:duration>26:01</itunes:duration>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S02E02.mp3" length="37464000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S02E02.mp3</guid>
+    </item>
+    <item>
+      <title>投资人翻BP到底在看哪五页，每一页都是生死关</title>
+      <itunes:title>投资人翻BP到底在看哪五页，每一页都是生死关</itunes:title>
+      <itunes:episode>3</itunes:episode>
+      <itunes:season>2</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>投资人看BP从来不是从头读到尾，是跳着看——团队页10秒，市场页15秒，找不到投你的理由，3分钟就翻篇了。这集把你BP在投资人脑子里接受的测试拆开讲，哪五页是生死关、每页给多少秒，照着改就完了。</description>
+      <content:encoded><![CDATA[<p>投资人看BP从来不是从头读到尾，是跳着看——团队页10秒，市场页15秒，找不到投你的理由，3分钟就翻篇了。这集把你BP在投资人脑子里接受的测试拆开讲，哪五页是生死关、每页给多少秒，照着改就完了。</p>]]></content:encoded>
+      <itunes:duration>22:23</itunes:duration>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S02E03.mp3" length="32232000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S02E03.mp3</guid>
+    </item>
+    <item>
+      <title>种子轮和A轮的BP完全不一样，写反了等于白干</title>
+      <itunes:title>种子轮和A轮的BP完全不一样，写反了等于白干</itunes:title>
+      <itunes:episode>4</itunes:episode>
+      <itunes:season>2</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>种子轮的BP写了42页，第30页开始分析上市规划，产品Demo还没影呢。种子轮投资人只关心一件事：这事能不能成。这集把五个融资阶段的BP差异给你掰开，写反了等于白干，别让你的BP讲成科幻小说。</description>
+      <content:encoded><![CDATA[<p>种子轮的BP写了42页，第30页开始分析上市规划，产品Demo还没影呢。种子轮投资人只关心一件事：这事能不能成。这集把五个融资阶段的BP差异给你掰开，写反了等于白干，别让你的BP讲成科幻小说。</p>]]></content:encoded>
+      <itunes:duration>20:31</itunes:duration>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S02E04.mp3" length="29544000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S02E04.mp3</guid>
+    </item>
+    <item>
+      <title>路演只有三分钟你怎么让投资人放下手机听你讲</title>
+      <itunes:title>路演只有三分钟你怎么让投资人放下手机听你讲</itunes:title>
+      <itunes:episode>5</itunes:episode>
+      <itunes:season>2</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>约了下午3点，你讲足45分钟口干舌燥，抬头一看投资人在看手机——这不是段子，是80%的路演现场。路演最大的敌人不是竞品，是投资人的注意力。这集教你三分钟怎么讲、先说什么后说什么，让对面放下手机。</description>
+      <content:encoded><![CDATA[<p>约了下午3点，你讲足45分钟口干舌燥，抬头一看投资人在看手机——这不是段子，是80%的路演现场。路演最大的敌人不是竞品，是投资人的注意力。这集教你三分钟怎么讲、先说什么后说什么，让对面放下手机。</p>]]></content:encoded>
+      <itunes:duration>20:10</itunes:duration>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S02E05.mp3" length="29040000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S02E05.mp3</guid>
+    </item>
+    <item>
+      <title>电梯还没到你故事就得讲完，让投资人替你吹牛</title>
+      <itunes:title>电梯还没到你故事就得讲完，让投资人替你吹牛</itunes:title>
+      <itunes:episode>6</itunes:episode>
+      <itunes:season>2</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>投资人投你之前，先得在投委会上替你打仗——他讲不清你的项目，合伙人三问他就毙了。所以你的故事不是讲给他听的，是讲给“替你吹牛的他”听的。这集教你一句话怎么磨，让他原封不动替你吹出去。</description>
+      <content:encoded><![CDATA[<p>投资人投你之前，先得在投委会上替你打仗——他讲不清你的项目，合伙人三问他就毙了。所以你的故事不是讲给他听的，是讲给“替你吹牛的他”听的。这集教你一句话怎么磨，让他原封不动替你吹出去。</p>]]></content:encoded>
+      <itunes:duration>21:20</itunes:duration>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S02E06.mp3" length="30720000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S02E06.mp3</guid>
+    </item>
+    <item>
+      <title>你的财务数字经得起砍一半吗，模型得这么做</title>
+      <itunes:title>你的财务数字经得起砍一半吗，模型得这么做</itunes:title>
+      <itunes:episode>7</itunes:episode>
+      <itunes:season>2</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>说个投资圈没人承认的潜规则：拿到你的财务模型，第一件事就是把数字全砍一半——收入减半、增长率减半、毛利砍10个点，砍完还能投才进下一步。这集讲财务模型怎么做才经得起“减”，别把撑大的数字当本事。</description>
+      <content:encoded><![CDATA[<p>说个投资圈没人承认的潜规则：拿到你的财务模型，第一件事就是把数字全砍一半——收入减半、增长率减半、毛利砍10个点，砍完还能投才进下一步。这集讲财务模型怎么做才经得起“减”，别把撑大的数字当本事。</p>]]></content:encoded>
+      <itunes:duration>20:31</itunes:duration>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S02E07.mp3" length="29544000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S02E07.mp3</guid>
+    </item>
+    <item>
+      <title>你公司到底值多少钱，六种算法算完挑一个去谈判</title>
+      <itunes:title>你公司到底值多少钱，六种算法算完挑一个去谈判</itunes:title>
+      <itunes:episode>8</itunes:episode>
+      <itunes:season>2</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>扎心的事实：你辛辛苦苦做的估值模型，投资人根本不看，他有自己的算法——你算1亿，他觉得最多5000万。估值不是数学题，是心理博弈。这集把六种估值算法摆出来，算完挑一个去谈判，让你在会议室里不虚。</description>
+      <content:encoded><![CDATA[<p>扎心的事实：你辛辛苦苦做的估值模型，投资人根本不看，他有自己的算法——你算1亿，他觉得最多5000万。估值不是数学题，是心理博弈。这集把六种估值算法摆出来，算完挑一个去谈判，让你在会议室里不虚。</p>]]></content:encoded>
+      <itunes:duration>20:08</itunes:duration>
+      <pubDate>Sun, 23 Aug 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S02E08.mp3" length="28992000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S02E08.mp3</guid>
+    </item>
+    <item>
+      <title>产品好不如模式好，商业模式才是真正的印钞机</title>
+      <itunes:title>产品好不如模式好，商业模式才是真正的印钞机</itunes:title>
+      <itunes:episode>9</itunes:episode>
+      <itunes:season>2</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>见过太多技术炸裂、BP每页都美的项目，唯独“钱怎么赚”那一页写着俩字：广告。等于在投资人脑门上贴了四个字——我不知道。商业模式缺了可持续、可复制、有利润任何一个，都是白忙。这集讲真正的印钞机长什么样。</description>
+      <content:encoded><![CDATA[<p>见过太多技术炸裂、BP每页都美的项目，唯独“钱怎么赚”那一页写着俩字：广告。等于在投资人脑门上贴了四个字——我不知道。商业模式缺了可持续、可复制、有利润任何一个，都是白忙。这集讲真正的印钞机长什么样。</p>]]></content:encoded>
+      <itunes:duration>21:04</itunes:duration>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S02E09.mp3" length="30336000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S02E09.mp3</guid>
+    </item>
+    <item>
+      <title>十五秒说不清楚项目就完了，三套魔力句型给你</title>
+      <itunes:title>十五秒说不清楚项目就完了，三套魔力句型给你</itunes:title>
+      <itunes:episode>10</itunes:episode>
+      <itunes:season>2</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>大多数投资人根本不会给你3分钟路演——你的机会是电梯里30秒、展会前15秒、微信语音10秒。一句话不是用来融资的，是用来过关的。这集给你三套魔力句型，把你泡了三年的项目浓缩成一句能过关的话。</description>
+      <content:encoded><![CDATA[<p>大多数投资人根本不会给你3分钟路演——你的机会是电梯里30秒、展会前15秒、微信语音10秒。一句话不是用来融资的，是用来过关的。这集给你三套魔力句型，把你泡了三年的项目浓缩成一句能过关的话。</p>]]></content:encoded>
+      <itunes:duration>20:31</itunes:duration>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S02E10.mp3" length="29544000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S02E10.mp3</guid>
+    </item>
+    <item>
+      <title>专利塞满抽屉但银行卡是空的，怎么把证书变现金</title>
+      <itunes:title>专利塞满抽屉但银行卡是空的，怎么把证书变现金</itunes:title>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>3</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>打开公司专利台账数数：10件、50件、100件，再翻账本“无形资产”那栏——大概率是零，最多是几万代理费。专利填得满抽屉，填不满银行账户。你只做了确权，没做资产化。这集讲怎么把证书变成现金。</description>
+      <content:encoded><![CDATA[<p>打开公司专利台账数数：10件、50件、100件，再翻账本“无形资产”那栏——大概率是零，最多是几万代理费。专利填得满抽屉，填不满银行账户。你只做了确权，没做资产化。这集讲怎么把证书变成现金。</p>]]></content:encoded>
+      <itunes:duration>22:15</itunes:duration>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S03E01.mp3" length="32040000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S03E01.mp3</guid>
+    </item>
+    <item>
+      <title>研发越多越不值钱的原因是你把资产形态搞错了</title>
+      <itunes:title>研发越多越不值钱的原因是你把资产形态搞错了</itunes:title>
+      <itunes:episode>2</itunes:episode>
+      <itunes:season>3</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>听着像疯话：研发投一千万，不如投一百万的时候值钱？这张IC×R&amp;D曲线图当年让我关上门想了一下午，想通之后看科技公司资产表跟开了X光一样。这集讲研发投钱的节奏、方向、时机，附六个真实案例。</description>
+      <content:encoded><![CDATA[<p>听着像疯话：研发投一千万，不如投一百万的时候值钱？这张IC×R&D曲线图当年让我关上门想了一下午，想通之后看科技公司资产表跟开了X光一样。这集讲研发投钱的节奏、方向、时机，附六个真实案例。</p>]]></content:encoded>
+      <itunes:duration>24:13</itunes:duration>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S03E02.mp3" length="34872000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S03E02.mp3</guid>
+    </item>
+    <item>
+      <title>高通凭什么每台手机都躺着收钱，标准必要专利拆解</title>
+      <itunes:title>高通凭什么每台手机都躺着收钱，标准必要专利拆解</itunes:title>
+      <itunes:episode>3</itunes:episode>
+      <itunes:season>3</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>你花一万买台iPhone，高通能拿走三百到五百。芯片不是最强、手机根本不卖，高通凭什么躺着收钱？因为它把专利种进了行业标准里。这集把标准必要专利的玩法拆开，看看什么叫专利运营的终极形态。</description>
+      <content:encoded><![CDATA[<p>你花一万买台iPhone，高通能拿走三百到五百。芯片不是最强、手机根本不卖，高通凭什么躺着收钱？因为它把专利种进了行业标准里。这集把标准必要专利的玩法拆开，看看什么叫专利运营的终极形态。</p>]]></content:encoded>
+      <itunes:duration>20:18</itunes:duration>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S03E03.mp3" length="29232000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S03E03.mp3</guid>
+    </item>
+    <item>
+      <title>怎么让别人用你的专利还得给你钱，许可谈判实操</title>
+      <itunes:title>怎么让别人用你的专利还得给你钱，许可谈判实操</itunes:title>
+      <itunes:episode>4</itunes:episode>
+      <itunes:season>3</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>中国科技公司九成以上的专利从来没被许可过，唯一价值是申高企、装点门面。许可是租不是卖——怎么给使用权画一条精确的线，线画不清将来必打官司。这集从许可谈判实操讲起，教你让别人用你的专利还得乖乖给钱。</description>
+      <content:encoded><![CDATA[<p>中国科技公司九成以上的专利从来没被许可过，唯一价值是申高企、装点门面。许可是租不是卖——怎么给使用权画一条精确的线，线画不清将来必打官司。这集从许可谈判实操讲起，教你让别人用你的专利还得乖乖给钱。</p>]]></content:encoded>
+      <itunes:duration>23:18</itunes:duration>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S03E04.mp3" length="33552000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S03E04.mp3</guid>
+    </item>
+    <item>
+      <title>专利一纸合同卖断的背后藏着太多坑，逐个拆开</title>
+      <itunes:title>专利一纸合同卖断的背后藏着太多坑，逐个拆开</itunes:title>
+      <itunes:episode>5</itunes:episode>
+      <itunes:season>3</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>许可出事最多收不到钱，转让出事可能收不到钱还要倒赔。一手交钱一手交货听着爽，坑比许可多得多。这集把转让四步骤、五大风险、三种定价路径全拆开，配最惨烈的翻车案例当教材。</description>
+      <content:encoded><![CDATA[<p>许可出事最多收不到钱，转让出事可能收不到钱还要倒赔。一手交钱一手交货听着爽，坑比许可多得多。这集把转让四步骤、五大风险、三种定价路径全拆开，配最惨烈的翻车案例当教材。</p>]]></content:encoded>
+      <itunes:duration>21:21</itunes:duration>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S03E05.mp3" length="30744000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S03E05.mp3</guid>
+    </item>
+    <item>
+      <title>没房没地也能搞到钱吗，拿专利去银行质押融资</title>
+      <itunes:title>没房没地也能搞到钱吗，拿专利去银行质押融资</itunes:title>
+      <itunes:episode>6</itunes:episode>
+      <itunes:season>3</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>公司缺钱只会找VC卖股权？还有第三条路——不卖股权，拿专利去银行抵押借债。听着美，用得少，因为信贷员看三十张专利证书跟看三十张邮票差不多。这集讲专利质押融资的门槛和玩法，教你让银行认你的专利。</description>
+      <content:encoded><![CDATA[<p>公司缺钱只会找VC卖股权？还有第三条路——不卖股权，拿专利去银行抵押借债。听着美，用得少，因为信贷员看三十张专利证书跟看三十张邮票差不多。这集讲专利质押融资的门槛和玩法，教你让银行认你的专利。</p>]]></content:encoded>
+      <itunes:duration>21:35</itunes:duration>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S03E06.mp3" length="31080000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S03E06.mp3</guid>
+    </item>
+    <item>
+      <title>坐在家里等买家上门行不通，专利得主动推出去</title>
+      <itunes:title>坐在家里等买家上门行不通，专利得主动推出去</itunes:title>
+      <itunes:episode>7</itunes:episode>
+      <itunes:season>3</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>三年申请五十件专利，规规矩矩交年费，然后打开电脑等着——等买家上门、等许可、等银行送钱，最后等来的只有催缴单。专利不是放着就下金蛋的鹅。这集讲运营的起点：先搞清市场谁被卡脖子，再把专利推过去。</description>
+      <content:encoded><![CDATA[<p>三年申请五十件专利，规规矩矩交年费，然后打开电脑等着——等买家上门、等许可、等银行送钱，最后等来的只有催缴单。专利不是放着就下金蛋的鹅。这集讲运营的起点：先搞清市场谁被卡脖子，再把专利推过去。</p>]]></content:encoded>
+      <itunes:duration>20:21</itunes:duration>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S03E07.mp3" length="29304000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S03E07.mp3</guid>
+    </item>
+    <item>
+      <title>你的专利到底值多少钱，四种评估方法帮你算清楚</title>
+      <itunes:title>你的专利到底值多少钱，四种评估方法帮你算清楚</itunes:title>
+      <itunes:episode>8</itunes:episode>
+      <itunes:season>3</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>你的专利值多少钱？不是“无价之宝”这种废话，是一个具体数字。许可谈判、银行质押、投资人尽调，你答不上“怎么算的”就任人开价。这集把专利价值评估“3+1”模型拆给你，学完以后任何场合聊估值手里都有武器。</description>
+      <content:encoded><![CDATA[<p>你的专利值多少钱？不是“无价之宝”这种废话，是一个具体数字。许可谈判、银行质押、投资人尽调，你答不上“怎么算的”就任人开价。这集把专利价值评估“3+1”模型拆给你，学完以后任何场合聊估值手里都有武器。</p>]]></content:encoded>
+      <itunes:duration>19:36</itunes:duration>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S03E08.mp3" length="28224000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S03E08.mp3</guid>
+    </item>
+    <item>
+      <title>别人偷了你的专利怎么办，一套反击组合拳打回去</title>
+      <itunes:title>别人偷了你的专利怎么办，一套反击组合拳打回去</itunes:title>
+      <itunes:episode>9</itunes:episode>
+      <itunes:season>3</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>展会隔壁展位摆着跟你一模一样的东西，你冲过去喊“我有专利！”对方一句“你谁啊？”噎死你。骂人？不行。砸展台？更不行。这集把维权武器库全亮出来：证据收集、民事诉讼五步法、赔偿计算，还有一条保命提醒。</description>
+      <content:encoded><![CDATA[<p>展会隔壁展位摆着跟你一模一样的东西，你冲过去喊“我有专利！”对方一句“你谁啊？”噎死你。骂人？不行。砸展台？更不行。这集把维权武器库全亮出来：证据收集、民事诉讼五步法、赔偿计算，还有一条保命提醒。</p>]]></content:encoded>
+      <itunes:duration>20:48</itunes:duration>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S03E09.mp3" length="29952000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S03E09.mp3</guid>
+    </item>
+    <item>
+      <title>专利也能当股票卖，资产证券化的玩法全拆解</title>
+      <itunes:title>专利也能当股票卖，资产证券化的玩法全拆解</itunes:title>
+      <itunes:episode>10</itunes:episode>
+      <itunes:season>3</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>把未来几年的许可费收款权打包成资产池，切成一万份、每份10块钱，像股票一样卖，一把拿回大笔现金——这不是科幻片，2019年深圳真发过中国第一单。这集把专利资产证券化全拆解，看看天花板在哪。</description>
+      <content:encoded><![CDATA[<p>把未来几年的许可费收款权打包成资产池，切成一万份、每份10块钱，像股票一样卖，一把拿回大笔现金——这不是科幻片，2019年深圳真发过中国第一单。这集把专利资产证券化全拆解，看看天花板在哪。</p>]]></content:encoded>
+      <itunes:duration>21:43</itunes:duration>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S03E10.mp3" length="31272000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S03E10.mp3</guid>
+    </item>
+    <item>
+      <title>技术为什么总死在半路上，因为你差一笔关键的钱</title>
+      <itunes:title>技术为什么总死在半路上，因为你差一笔关键的钱</itunes:title>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>4</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>世界级的固态电池技术，硬是卡在1200万的缺口上转圈——中试线建不起，量产数据拿不到，投资人不敢掏钱，完美死循环。大王拿真实项目拆解死亡谷怎么跳，再教你政府+VC+银行质押的铁三角填坑打法。</description>
+      <content:encoded><![CDATA[<p>世界级的固态电池技术，硬是卡在1200万的缺口上转圈——中试线建不起，量产数据拿不到，投资人不敢掏钱，完美死循环。大王拿真实项目拆解死亡谷怎么跳，再教你政府+VC+银行质押的铁三角填坑打法。</p>]]></content:encoded>
+      <itunes:duration>22:42</itunes:duration>
+      <pubDate>Sat, 05 Sep 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S04E01.mp3" length="32688000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S04E01.mp3</guid>
+    </item>
+    <item>
+      <title>白给的钱你为什么不要，政府专项资金薅羊毛指南</title>
+      <itunes:title>白给的钱你为什么不要，政府专项资金薅羊毛指南</itunes:title>
+      <itunes:episode>2</itunes:episode>
+      <itunes:season>4</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>每年上万亿的科技专项资金，三成申报窗口关了都没人填满——钱摆在那儿，没人来拿。激光雷达公司年营收五千万，手里攥着六个政府项目近三千万补贴，凭什么？这集教你专项资金怎么薅、申报书怎么写才没人能拒绝。</description>
+      <content:encoded><![CDATA[<p>每年上万亿的科技专项资金，三成申报窗口关了都没人填满——钱摆在那儿，没人来拿。激光雷达公司年营收五千万，手里攥着六个政府项目近三千万补贴，凭什么？这集教你专项资金怎么薅、申报书怎么写才没人能拒绝。</p>]]></content:encoded>
+      <itunes:duration>23:03</itunes:duration>
+      <pubDate>Sun, 06 Sep 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S04E02.mp3" length="33192000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S04E02.mp3</guid>
+    </item>
+    <item>
+      <title>投资人的钱能随便拿吗，金主挑错了比没钱更惨</title>
+      <itunes:title>投资人的钱能随便拿吗，金主挑错了比没钱更惨</itunes:title>
+      <itunes:episode>3</itunes:episode>
+      <itunes:season>4</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>天使、VC、PE三拨人，脑回路天差地别，90%的创始人一套PPT通吃三种金主，结果全是'回去研究一下'。AI药物筛选的一天连见三个投资人，翻车现场惨不忍睹。这集拆三类金主的脾气，教你拿对敲门砖。</description>
+      <content:encoded><![CDATA[<p>天使、VC、PE三拨人，脑回路天差地别，90%的创始人一套PPT通吃三种金主，结果全是'回去研究一下'。AI药物筛选的一天连见三个投资人，翻车现场惨不忍睹。这集拆三类金主的脾气，教你拿对敲门砖。</p>]]></content:encoded>
+      <itunes:duration>23:11</itunes:duration>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S04E03.mp3" length="33384000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S04E03.mp3</guid>
+    </item>
+    <item>
+      <title>给你订单的金主也可能是最大对手，聊聊CVC战投</title>
+      <itunes:title>给你订单的金主也可能是最大对手，聊聊CVC战投</itunes:title>
+      <itunes:episode>4</itunes:episode>
+      <itunes:season>4</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>智能座舱公司技术硬得很，VC让他独立去敲车厂的门，产业资本却出2000万换15%，条件是前两年只能供自家客户——签还是不签？大王一句话点醒创始人。这集聊CVC战投：给你订单的金主，也是最大的对手。</description>
+      <content:encoded><![CDATA[<p>智能座舱公司技术硬得很，VC让他独立去敲车厂的门，产业资本却出2000万换15%，条件是前两年只能供自家客户——签还是不签？大王一句话点醒创始人。这集聊CVC战投：给你订单的金主，也是最大的对手。</p>]]></content:encoded>
+      <itunes:duration>22:09</itunes:duration>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S04E04.mp3" length="31896000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S04E04.mp3</guid>
+    </item>
+    <item>
+      <title>没房没地没担保也能从银行搞到钱，科创贷怎么聊</title>
+      <itunes:title>没房没地没担保也能从银行搞到钱，科创贷怎么聊</itunes:title>
+      <itunes:episode>5</itunes:episode>
+      <itunes:season>4</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>账上剩几月现金流？做AI做材料的，固定资产就一台MacBook加GitHub仓库，抵押？柜员懒得看。8项专利能贷1200万，3.8%利率股权不稀释。海归博士被行长笑'讲故事'，咋翻盘？科创贷咋聊透。</description>
+      <content:encoded><![CDATA[<p>账上剩几月现金流？做AI做材料的，固定资产就一台MacBook加GitHub仓库，抵押？柜员懒得看。8项专利能贷1200万，3.8%利率股权不稀释。海归博士被行长笑'讲故事'，咋翻盘？科创贷咋聊透。</p>]]></content:encoded>
+      <itunes:duration>23:14</itunes:duration>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S04E05.mp3" length="33456000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S04E05.mp3</guid>
+    </item>
+    <item>
+      <title>上市去哪敲钟想好了吗，科创板北交所创业板对比</title>
+      <itunes:title>上市去哪敲钟想好了吗，科创板北交所创业板对比</itunes:title>
+      <itunes:episode>6</itunes:episode>
+      <itunes:season>4</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>特种阀门厂年赚8000万，想上科创板，投行一句'行业不符'打回原形，二三十亿IPO梦碎成北交所的5到10亿。AI制药公司亏几千万，靠第五套标准上市，市值破200亿。差距咋这么大？三大板咋选，掰开揉碎。</description>
+      <content:encoded><![CDATA[<p>特种阀门厂年赚8000万，想上科创板，投行一句'行业不符'打回原形，二三十亿IPO梦碎成北交所的5到10亿。AI制药公司亏几千万，靠第五套标准上市，市值破200亿。差距咋这么大？三大板咋选，掰开揉碎。</p>]]></content:encoded>
+      <itunes:duration>22:13</itunes:duration>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S04E06.mp3" length="31992000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S04E06.mp3</guid>
+    </item>
+    <item>
+      <title>发财之前先保命，科技保险和知识产权保险怎么买</title>
+      <itunes:title>发财之前先保命，科技保险和知识产权保险怎么买</itunes:title>
+      <itunes:episode>7</itunes:episode>
+      <itunes:season>4</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>30人公司账上趴着300万，收到深圳中院传票，NPE索赔500万——告的不是你抄没抄，是你怕不怕耗。去年专利侵权案60万件，平均赔偿200万。发财之前先保命，科技保险、知产保险咋买、坑在哪，这集讲透。</description>
+      <content:encoded><![CDATA[<p>30人公司账上趴着300万，收到深圳中院传票，NPE索赔500万——告的不是你抄没抄，是你怕不怕耗。去年专利侵权案60万件，平均赔偿200万。发财之前先保命，科技保险、知产保险咋买、坑在哪，这集讲透。</p>]]></content:encoded>
+      <itunes:duration>22:56</itunes:duration>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S04E07.mp3" length="33024000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S04E07.mp3</guid>
+    </item>
+    <item>
+      <title>七万亿的政府引导基金大漏斗，你怎么接住这笔钱</title>
+      <itunes:title>七万亿的政府引导基金大漏斗，你怎么接住这笔钱</itunes:title>
+      <itunes:episode>8</itunes:episode>
+      <itunes:season>4</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>政府引导基金总盘子超7万亿，比上海一年GDP都多，可每年几十亿专项资金因不会花钱被退回，退回还上黑名单，三年别想再申报。钱到账不敢花，花了被审计查出问题，咋破？这集教你合规花钱的姿势，接住漏斗里的钱。</description>
+      <content:encoded><![CDATA[<p>政府引导基金总盘子超7万亿，比上海一年GDP都多，可每年几十亿专项资金因不会花钱被退回，退回还上黑名单，三年别想再申报。钱到账不敢花，花了被审计查出问题，咋破？这集教你合规花钱的姿势，接住漏斗里的钱。</p>]]></content:encoded>
+      <itunes:duration>22:27</itunes:duration>
+      <pubDate>Sat, 12 Sep 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S04E08.mp3" length="32328000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S04E08.mp3</guid>
+    </item>
+    <item>
+      <title>你的履历就是钱，科技人才专项补贴你会用吗</title>
+      <itunes:title>你的履历就是钱，科技人才专项补贴你会用吗</itunes:title>
+      <itunes:episode>9</itunes:episode>
+      <itunes:season>4</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>量子计算的北大博士，公司还在实验室阶段零营收，光凭个人履历就拿了400万不用还的钱。千人计划、人才补贴，你这个人本身就是资产，可惜大部分技术创始人不知道自己能领。人才专项补贴怎么用，这集捋明白。</description>
+      <content:encoded><![CDATA[<p>量子计算的北大博士，公司还在实验室阶段零营收，光凭个人履历就拿了400万不用还的钱。千人计划、人才补贴，你这个人本身就是资产，可惜大部分技术创始人不知道自己能领。人才专项补贴怎么用，这集捋明白。</p>]]></content:encoded>
+      <itunes:duration>22:08</itunes:duration>
+      <pubDate>Sun, 13 Sep 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S04E09.mp3" length="31872000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S04E09.mp3</guid>
+    </item>
+    <item>
+      <title>从想上市到敲钟有多远，科创板IPO全流程实战</title>
+      <itunes:title>从想上市到敲钟有多远，科创板IPO全流程实战</itunes:title>
+      <itunes:episode>10</itunes:episode>
+      <itunes:season>4</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>上市不是填表，是从公司成立第一天就要准备的。半导体设备公司营收6亿利润8000万，券商辅导半年，被一笔200万代持卡在门口——岳母出的钱登记在他名下，六年没协议。科创板IPO全流程的坑，收官课讲透。</description>
+      <content:encoded><![CDATA[<p>上市不是填表，是从公司成立第一天就要准备的。半导体设备公司营收6亿利润8000万，券商辅导半年，被一笔200万代持卡在门口——岳母出的钱登记在他名下，六年没协议。科创板IPO全流程的坑，收官课讲透。</p>]]></content:encoded>
+      <itunes:duration>23:28</itunes:duration>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S04E10.mp3" length="33792000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S04E10.mp3</guid>
+    </item>
+    <item>
+      <title>技术变现五条路，你的技术最适合走哪一条</title>
+      <itunes:title>技术变现五条路，你的技术最适合走哪一条</itunes:title>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>5</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>高校每年授权40万件发明专利，真转化成钱的没几个。技术在手，自己干、卖掉、租出去还是找人合伙？这一步选错，后面全是在把错的方向跑更快。五条转化路径、四维评估矩阵，开季先对号入座，看看你的技术走哪条。</description>
+      <content:encoded><![CDATA[<p>高校每年授权40万件发明专利，真转化成钱的没几个。技术在手，自己干、卖掉、租出去还是找人合伙？这一步选错，后面全是在把错的方向跑更快。五条转化路径、四维评估矩阵，开季先对号入座，看看你的技术走哪条。</p>]]></content:encoded>
+      <itunes:duration>31:00</itunes:duration>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S05E01.mp3" length="44640000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S05E01.mp3</guid>
+    </item>
+    <item>
+      <title>自己投钱搞转化等于跳坑，每一步都是钱坑</title>
+      <itunes:title>自己投钱搞转化等于跳坑，每一步都是钱坑</itunes:title>
+      <itunes:episode>2</itunes:episode>
+      <itunes:season>5</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>有人私信：大王，我技术很好，我就想自己干。行，这集给你看个血淋淋的自行投资案例——MicroLED芯片，两年半烧了2000万，掉了半头头发，走了两员大将才换来首单。花了多少钱、踩了多少坑，全摊桌上。</description>
+      <content:encoded><![CDATA[<p>有人私信：大王，我技术很好，我就想自己干。行，这集给你看个血淋淋的自行投资案例——MicroLED芯片，两年半烧了2000万，掉了半头头发，走了两员大将才换来首单。花了多少钱、踩了多少坑，全摊桌上。</p>]]></content:encoded>
+      <itunes:duration>34:48</itunes:duration>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S05E02.mp3" length="50112000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S05E02.mp3</guid>
+    </item>
+    <item>
+      <title>一次性卖断八千万值不值，大王帮你算清楚</title>
+      <itunes:title>一次性卖断八千万值不值，大王帮你算清楚</itunes:title>
+      <itunes:episode>3</itunes:episode>
+      <itunes:season>5</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>一听转让就嫌low？'跟卖孩子有什么区别'这话大王听腻了。但卖断8000万，签合同收钱交资料，从此跟技术分道扬镳，亏还是赚？拿着现金走的科学家可不少。转让怎么定价、合同有什么死穴，这集把账算清楚。</description>
+      <content:encoded><![CDATA[<p>一听转让就嫌low？'跟卖孩子有什么区别'这话大王听腻了。但卖断8000万，签合同收钱交资料，从此跟技术分道扬镳，亏还是赚？拿着现金走的科学家可不少。转让怎么定价、合同有什么死穴，这集把账算清楚。</p>]]></content:encoded>
+      <itunes:duration>28:47</itunes:duration>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S05E03.mp3" length="41448000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S05E03.mp3</guid>
+    </item>
+    <item>
+      <title>把专利租出去躺着收租，设计你的专利生意模型</title>
+      <itunes:title>把专利租出去躺着收租，设计你的专利生意模型</itunes:title>
+      <itunes:episode>4</itunes:episode>
+      <itunes:season>5</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>卖断干净，但万一技术火了，你一分钱分不到，甘心吗？许可是五种转化方式里最被低估的——技术还在你手里，别人替你赚钱你收租，房子还是你的，租客按月交钱。许可模型怎么设计、怎么防租客跑路，这集讲透。</description>
+      <content:encoded><![CDATA[<p>卖断干净，但万一技术火了，你一分钱分不到，甘心吗？许可是五种转化方式里最被低估的——技术还在你手里，别人替你赚钱你收租，房子还是你的，租客按月交钱。许可模型怎么设计、怎么防租客跑路，这集讲透。</p>]]></content:encoded>
+      <itunes:duration>25:57</itunes:duration>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S05E04.mp3" length="37368000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S05E04.mp3</guid>
+    </item>
+    <item>
+      <title>高校企业研究所三方扯皮怎么解，死结拆解法</title>
+      <itunes:title>高校企业研究所三方扯皮怎么解，死结拆解法</itunes:title>
+      <itunes:episode>5</itunes:episode>
+      <itunes:season>5</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>高校出脑力、企业出财力、研究所出设备，黄金三角听着完美。现实是某AI视觉实验室跟A股安防巨头签了研发协议，教授出算法、上市公司砸几千万算力，最后闹成啥样，听完脊梁发凉。三方扯皮的死结怎么解？这集拆解。</description>
+      <content:encoded><![CDATA[<p>高校出脑力、企业出财力、研究所出设备，黄金三角听着完美。现实是某AI视觉实验室跟A股安防巨头签了研发协议，教授出算法、上市公司砸几千万算力，最后闹成啥样，听完脊梁发凉。三方扯皮的死结怎么解？这集拆解。</p>]]></content:encoded>
+      <itunes:duration>26:24</itunes:duration>
+      <pubDate>Sat, 19 Sep 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S05E05.mp3" length="38016000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S05E05.mp3</guid>
+    </item>
+    <item>
+      <title>产学研不赚钱等于做慈善，怎么让它真正变现</title>
+      <itunes:title>产学研不赚钱等于做慈善，怎么让它真正变现</itunes:title>
+      <itunes:episode>6</itunes:episode>
+      <itunes:season>5</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>技术很牛、双方都有热情、领导握手合影，三年后没赚钱反目成仇——你见过最惨的产学研合作吗？90%的人不承认的真相：从头就没想过这合作靠什么赚钱。教授那句'我出技术你出钱卖了分钱'最危险。盈利模式这集讲。</description>
+      <content:encoded><![CDATA[<p>技术很牛、双方都有热情、领导握手合影，三年后没赚钱反目成仇——你见过最惨的产学研合作吗？90%的人不承认的真相：从头就没想过这合作靠什么赚钱。教授那句'我出技术你出钱卖了分钱'最危险。盈利模式这集讲。</p>]]></content:encoded>
+      <itunes:duration>23:48</itunes:duration>
+      <pubDate>Sun, 20 Sep 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S05E06.mp3" length="34272000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S05E06.mp3</guid>
+    </item>
+    <item>
+      <title>合肥是怎么用政府力量种出一个完整产业链的</title>
+      <itunes:title>合肥是怎么用政府力量种出一个完整产业链的</itunes:title>
+      <itunes:episode>7</itunes:episode>
+      <itunes:season>5</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>全国2000多家孵化器、500多个高新区，每个园区都有重点培育清单，后面是租金减免、设备补贴、税收优惠、政府采购倾斜——可惜多数创始人不知道自己在清单里。合肥怎么用政府力量种出完整产业链？这集讲透。</description>
+      <content:encoded><![CDATA[<p>全国2000多家孵化器、500多个高新区，每个园区都有重点培育清单，后面是租金减免、设备补贴、税收优惠、政府采购倾斜——可惜多数创始人不知道自己在清单里。合肥怎么用政府力量种出完整产业链？这集讲透。</p>]]></content:encoded>
+      <itunes:duration>25:42</itunes:duration>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S05E07.mp3" length="37008000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S05E07.mp3</guid>
+    </item>
+    <item>
+      <title>一件专利怎么合法赚两遍钱，双收操作全拆解</title>
+      <itunes:title>一件专利怎么合法赚两遍钱，双收操作全拆解</itunes:title>
+      <itunes:episode>8</itunes:episode>
+      <itunes:season>5</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>一项发明专利，签了两份独占许可，收了两份独占许可费，完全合法互不冲突——头回听说都不敢信。'独占'怎么还能给两家？就像一栋楼分层租，一楼餐厅独家、二楼健身独家，互不打架。专利三维切割的骚操作，全拆解。</description>
+      <content:encoded><![CDATA[<p>一项发明专利，签了两份独占许可，收了两份独占许可费，完全合法互不冲突——头回听说都不敢信。'独占'怎么还能给两家？就像一栋楼分层租，一楼餐厅独家、二楼健身独家，互不打架。专利三维切割的骚操作，全拆解。</p>]]></content:encoded>
+      <itunes:duration>22:31</itunes:duration>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S05E08.mp3" length="32424000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S05E08.mp3</guid>
+    </item>
+    <item>
+      <title>教授和学校成果转化怎么分钱，利益分配实操</title>
+      <itunes:title>教授和学校成果转化怎么分钱，利益分配实操</itunes:title>
+      <itunes:episode>9</itunes:episode>
+      <itunes:season>5</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>分钱，最容易让所有人都不满意。教授觉得技术是我的该拿大头，学校觉得设备工资都是我出的，中介觉得没我牵线你俩面都见不着——三个人的账加起来超过100%。成果转化的钱怎么分才合法又服众？法理人情全盘明白。</description>
+      <content:encoded><![CDATA[<p>分钱，最容易让所有人都不满意。教授觉得技术是我的该拿大头，学校觉得设备工资都是我出的，中介觉得没我牵线你俩面都见不着——三个人的账加起来超过100%。成果转化的钱怎么分才合法又服众？法理人情全盘明白。</p>]]></content:encoded>
+      <itunes:duration>22:22</itunes:duration>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S05E09.mp3" length="32208000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S05E09.mp3</guid>
+    </item>
+    <item>
+      <title>五个真实转化案例拆解为什么有的成功有的失败</title>
+      <itunes:title>五个真实转化案例拆解为什么有的成功有的失败</itunes:title>
+      <itunes:episode>10</itunes:episode>
+      <itunes:season>5</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>第五季收官复盘：五个真实转化案例，横跨新材料、生物医药、AI、光伏、工业软件，每个都按失败点、为什么败、重来怎么打三条线拆。别人的血泪，别用自己的钱和时间再流一遍，这五个案例里有你未来要踩的每个坑。</description>
+      <content:encoded><![CDATA[<p>第五季收官复盘：五个真实转化案例，横跨新材料、生物医药、AI、光伏、工业软件，每个都按失败点、为什么败、重来怎么打三条线拆。别人的血泪，别用自己的钱和时间再流一遍，这五个案例里有你未来要踩的每个坑。</p>]]></content:encoded>
+      <itunes:duration>26:41</itunes:duration>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S05E10.mp3" length="38424000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S05E10.mp3</guid>
+    </item>
+    <item>
+      <title>你的技术别只在中国卷，全球市场有更大的钱在等你</title>
+      <itunes:title>你的技术别只在中国卷，全球市场有更大的钱在等你</itunes:title>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>6</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>中国技术合同成交额破6万亿，跨境技术转移年增15%，最扎心的是：同一项技术在各国估值差五到十倍，不是技术变了，是坐标系变了。华为、大疆、TikTok早不是卖到海外，是长在全球。你的技术别只在中国卷。</description>
+      <content:encoded><![CDATA[<p>中国技术合同成交额破6万亿，跨境技术转移年增15%，最扎心的是：同一项技术在各国估值差五到十倍，不是技术变了，是坐标系变了。华为、大疆、TikTok早不是卖到海外，是长在全球。你的技术别只在中国卷。</p>]]></content:encoded>
+      <itunes:duration>26:14</itunes:duration>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S06E01.mp3" length="37776000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S06E01.mp3</guid>
+    </item>
+    <item>
+      <title>怎么把中国技术标准种到海外，高铁学院模式拆解</title>
+      <itunes:title>怎么把中国技术标准种到海外，高铁学院模式拆解</itunes:title>
+      <itunes:episode>2</itunes:episode>
+      <itunes:season>6</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>高铁里程全球第一，复兴号时速350公里，可进白俄罗斯这种一带一路国家，最难的不是技术，是标准——人家是苏联GOST体系，轨距信号规范全是另一套，当地没一个懂中国标准的工程师。高铁学院咋把标准种到海外？</description>
+      <content:encoded><![CDATA[<p>高铁里程全球第一，复兴号时速350公里，可进白俄罗斯这种一带一路国家，最难的不是技术，是标准——人家是苏联GOST体系，轨距信号规范全是另一套，当地没一个懂中国标准的工程师。高铁学院咋把标准种到海外？</p>]]></content:encoded>
+      <itunes:duration>26:50</itunes:duration>
+      <pubDate>Sat, 26 Sep 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S06E02.mp3" length="38640000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S06E02.mp3</guid>
+    </item>
+    <item>
+      <title>同一个技术换个市场估值翻五倍，怎么选市场</title>
+      <itunes:title>同一个技术换个市场估值翻五倍，怎么选市场</itunes:title>
+      <itunes:episode>3</itunes:episode>
+      <itunes:season>6</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>一项锂电池隔膜技术，国内转让估值6000万，到德国卖1.1亿，到硅谷飙到1.8亿——三倍差距。不是技术变了，是各国评估坐标系完全不同：美国看想象空间，德国看精密。怎么挑对市场？这集实操。</description>
+      <content:encoded><![CDATA[<p>一项锂电池隔膜技术，国内转让估值6000万，到德国卖1.1亿，到硅谷飙到1.8亿——三倍差距。不是技术变了，是各国评估坐标系完全不同：美国看想象空间，德国看精密。怎么挑对市场？这集实操。</p>]]></content:encoded>
+      <itunes:duration>26:12</itunes:duration>
+      <pubDate>Sun, 27 Sep 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S06E03.mp3" length="37728000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S06E03.mp3</guid>
+    </item>
+    <item>
+      <title>出海不止是为了赚钱，聊聊技术输出的情怀和战略</title>
+      <itunes:title>出海不止是为了赚钱，聊聊技术输出的情怀和战略</itunes:title>
+      <itunes:episode>4</itunes:episode>
+      <itunes:season>6</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>赚不赚钱都愿意干的事，才叫情怀。做国际转移十年的人，最后殊途同归到一个结论：情怀不是装饰，是让你待到最后的理由。你的技术帮一群孩子摆脱疟疾，利润不够也不撤。情怀和战略怎么平衡，这集聊点不一样的。</description>
+      <content:encoded><![CDATA[<p>赚不赚钱都愿意干的事，才叫情怀。做国际转移十年的人，最后殊途同归到一个结论：情怀不是装饰，是让你待到最后的理由。你的技术帮一群孩子摆脱疟疾，利润不够也不撤。情怀和战略怎么平衡，这集聊点不一样的。</p>]]></content:encoded>
+      <itunes:duration>22:52</itunes:duration>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S06E04.mp3" length="32928000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S06E04.mp3</guid>
+    </item>
+    <item>
+      <title>出海的路有七条哪条成本最低，帮你挑一条</title>
+      <itunes:title>出海的路有七条哪条成本最低，帮你挑一条</itunes:title>
+      <itunes:episode>5</itunes:episode>
+      <itunes:season>6</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>出海七条路，从出口到扎根三十年，成本从便宜到贵得离谱，多数公司第一步都走装柜卖货——最简单也最浅。真正赚钱的不是卖产品，是卖标准：高通一颗手机不造，许可费年入百亿美金。七条路哪条适合你？这集帮你挑。</description>
+      <content:encoded><![CDATA[<p>出海七条路，从出口到扎根三十年，成本从便宜到贵得离谱，多数公司第一步都走装柜卖货——最简单也最浅。真正赚钱的不是卖产品，是卖标准：高通一颗手机不造，许可费年入百亿美金。七条路哪条适合你？这集帮你挑。</p>]]></content:encoded>
+      <itunes:duration>23:44</itunes:duration>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S06E05.mp3" length="34176000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S06E05.mp3</guid>
+    </item>
+    <item>
+      <title>谁在帮你把技术搬到海外，四个关键角色介绍</title>
+      <itunes:title>谁在帮你把技术搬到海外，四个关键角色介绍</itunes:title>
+      <itunes:episode>6</itunes:episode>
+      <itunes:season>6</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>跨境生意是网络效应游戏，认识的人越多越顺，不认识坑越多——你一个人搞不定，加团队也搞不定。国内要高校企业政府律所，出海要目标国七维度全有人，没人=瞎。谁在帮你把技术搬出国？四个关键角色，这集挨个介绍。</description>
+      <content:encoded><![CDATA[<p>跨境生意是网络效应游戏，认识的人越多越顺，不认识坑越多——你一个人搞不定，加团队也搞不定。国内要高校企业政府律所，出海要目标国七维度全有人，没人=瞎。谁在帮你把技术搬出国？四个关键角色，这集挨个介绍。</p>]]></content:encoded>
+      <itunes:duration>21:43</itunes:duration>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S06E06.mp3" length="31272000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S06E06.mp3</guid>
+    </item>
+    <item>
+      <title>IP出海怎么保护自己，PCT马德里海牙UPOV四大工具</title>
+      <itunes:title>IP出海怎么保护自己，PCT马德里海牙UPOV四大工具</itunes:title>
+      <itunes:episode>7</itunes:episode>
+      <itunes:season>6</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>德国参展摆设备，对手拍照拆解，仨月后'自主创新'，你气得发抖，却发现在德国一项专利没申请——告不了任何人。中国专利只在国内受保护，出海不布局IP就是裸奔。PCT、马德里、海牙、UPOV咋用？保命指南。</description>
+      <content:encoded><![CDATA[<p>德国参展摆设备，对手拍照拆解，仨月后'自主创新'，你气得发抖，却发现在德国一项专利没申请——告不了任何人。中国专利只在国内受保护，出海不布局IP就是裸奔。PCT、马德里、海牙、UPOV咋用？保命指南。</p>]]></content:encoded>
+      <itunes:duration>22:17</itunes:duration>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S06E07.mp3" length="32088000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S06E07.mp3</guid>
+    </item>
+    <item>
+      <title>谁在海外等着买你的技术，买家画像全解析</title>
+      <itunes:title>谁在海外等着买你的技术，买家画像全解析</itunes:title>
+      <itunes:episode>8</itunes:episode>
+      <itunes:season>6</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>你以为海外是蓝海？水面下几十条鲨鱼早在游，你在海岸线上看到的只是海平面。激光雷达创始人说海外没对手，大王让他查USPTO数据库，同一细分赛道几十件专利等着他。谁在暗处等你发律师函？全球玩家地图画给你。</description>
+      <content:encoded><![CDATA[<p>你以为海外是蓝海？水面下几十条鲨鱼早在游，你在海岸线上看到的只是海平面。激光雷达创始人说海外没对手，大王让他查USPTO数据库，同一细分赛道几十件专利等着他。谁在暗处等你发律师函？全球玩家地图画给你。</p>]]></content:encoded>
+      <itunes:duration>22:58</itunes:duration>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S06E08.mp3" length="33072000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S06E08.mp3</guid>
+    </item>
+    <item>
+      <title>从技术出海到全球创新网络怎么走，收官大课</title>
+      <itunes:title>从技术出海到全球创新网络怎么走，收官大课</itunes:title>
+      <itunes:episode>9</itunes:episode>
+      <itunes:season>6</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>把技术卖到国外是单次交易，建全球创新网络是同时在多国有专利、研发中心、供应链、用户社区。苹果芯片设计在加州以色列、制造在台积电、组装在富士康，你说它是哪国的？从出海到长在全球，收官大课讲透。</description>
+      <content:encoded><![CDATA[<p>把技术卖到国外是单次交易，建全球创新网络是同时在多国有专利、研发中心、供应链、用户社区。苹果芯片设计在加州以色列、制造在台积电、组装在富士康，你说它是哪国的？从出海到长在全球，收官大课讲透。</p>]]></content:encoded>
+      <itunes:duration>20:58</itunes:duration>
+      <pubDate>Sat, 03 Oct 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S06E09.mp3" length="30192000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S06E09.mp3</guid>
+    </item>
+    <item>
+      <title>颠覆还是优化，用以色列的故事教你做技术决策</title>
+      <itunes:title>颠覆还是优化，用以色列的故事教你做技术决策</itunes:title>
+      <itunes:episode>10</itunes:episode>
+      <itunes:season>6</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>以色列人口不到1000万，比成都还少，纳斯达克上市公司数量排全球前列，人均VC投资全球第一——Mobileye被英特尔153亿收购，Waze被谷歌11亿买走。颠覆还是优化？这个国家的故事教你做决策。</description>
+      <content:encoded><![CDATA[<p>以色列人口不到1000万，比成都还少，纳斯达克上市公司数量排全球前列，人均VC投资全球第一——Mobileye被英特尔153亿收购，Waze被谷歌11亿买走。颠覆还是优化？这个国家的故事教你做决策。</p>]]></content:encoded>
+      <itunes:duration>20:18</itunes:duration>
+      <pubDate>Sun, 04 Oct 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S06E10.mp3" length="29232000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S06E10.mp3</guid>
+    </item>
+    <item>
+      <title>你以为在拍脑门决策，但其实大数据早看光了你底牌</title>
+      <itunes:title>你以为在拍脑门决策，但其实大数据早看光了你底牌</itunes:title>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>7</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>靠拍脑门决策投技术？兄弟，你是在用1910年的罗盘开2026年的特斯拉。一年350万件专利，人脑根本装不下。这集教你用大数据把技术底牌看穿——直觉和经验，早该退休了。</description>
+      <content:encoded><![CDATA[<p>靠拍脑门决策投技术？兄弟，你是在用1910年的罗盘开2026年的特斯拉。一年350万件专利，人脑根本装不下。这集教你用大数据把技术底牌看穿——直觉和经验，早该退休了。</p>]]></content:encoded>
+      <itunes:duration>24:04</itunes:duration>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S07E01.mp3" length="34656000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S07E01.mp3</guid>
+    </item>
+    <item>
+      <title>数据分析五件套哪些免费哪些必须氪金，帮你挑</title>
+      <itunes:title>数据分析五件套哪些免费哪些必须氪金，帮你挑</itunes:title>
+      <itunes:episode>2</itunes:episode>
+      <itunes:season>7</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>一说数据分析工具就以为越贵越牛？错。免费工具有人做出惊艳分析，商业数据库也有人做成复制粘贴。这集把五件套逐个过：哪些免费够用、哪些必须氪金，标准只有一个——十五分钟内从问题到决策。</description>
+      <content:encoded><![CDATA[<p>一说数据分析工具就以为越贵越牛？错。免费工具有人做出惊艳分析，商业数据库也有人做成复制粘贴。这集把五件套逐个过：哪些免费够用、哪些必须氪金，标准只有一个——十五分钟内从问题到决策。</p>]]></content:encoded>
+      <itunes:duration>21:41</itunes:duration>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S07E02.mp3" length="31224000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S07E02.mp3</guid>
+    </item>
+    <item>
+      <title>进场太早当烈士太晚当韭菜，怎么用技术S曲线判断</title>
+      <itunes:title>进场太早当烈士太晚当韭菜，怎么用技术S曲线判断</itunes:title>
+      <itunes:episode>3</itunes:episode>
+      <itunes:season>7</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>技术对、团队对、市场也对，唯独时机错——早三年当烈士，晚三年当韭菜。这集用技术S曲线教你判断进场时机，找准拐点再动手，别当铺路工，也别当接盘侠。</description>
+      <content:encoded><![CDATA[<p>技术对、团队对、市场也对，唯独时机错——早三年当烈士，晚三年当韭菜。这集用技术S曲线教你判断进场时机，找准拐点再动手，别当铺路工，也别当接盘侠。</p>]]></content:encoded>
+      <itunes:duration>23:51</itunes:duration>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S07E03.mp3" length="34344000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S07E03.mp3</guid>
+    </item>
+    <item>
+      <title>你的专利到底值多少钱，三种算法直接给你算出来</title>
+      <itunes:title>你的专利到底值多少钱，三种算法直接给你算出来</itunes:title>
+      <itunes:episode>4</itunes:episode>
+      <itunes:season>7</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>教授拍胸脯说专利值一千万？房子的价格是隔壁成交价定的，专利也一样。这集给你三种算法，把专利的真实价值直接算出来——别让“国际领先”四个字糊弄你。</description>
+      <content:encoded><![CDATA[<p>教授拍胸脯说专利值一千万？房子的价格是隔壁成交价定的，专利也一样。这集给你三种算法，把专利的真实价值直接算出来——别让“国际领先”四个字糊弄你。</p>]]></content:encoded>
+      <itunes:duration>21:49</itunes:duration>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S07E04.mp3" length="31416000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S07E04.mp3</guid>
+    </item>
+    <item>
+      <title>别给我看专利号，画出你在赛道里的真实位置</title>
+      <itunes:title>别给我看专利号，画出你在赛道里的真实位置</itunes:title>
+      <itunes:episode>5</itunes:episode>
+      <itunes:season>7</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>最烦创始人甩一串专利号给我——国知局两秒能查到的东西，你好意思拿来撑场面？这集教你跳出专利号，画出自己在赛道里的真实位置。专利数量跟估值之间，没有你想的那种关系。</description>
+      <content:encoded><![CDATA[<p>最烦创始人甩一串专利号给我——国知局两秒能查到的东西，你好意思拿来撑场面？这集教你跳出专利号，画出自己在赛道里的真实位置。专利数量跟估值之间，没有你想的那种关系。</p>]]></content:encoded>
+      <itunes:duration>20:45</itunes:duration>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S07E05.mp3" length="29880000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S07E05.mp3</guid>
+    </item>
+    <item>
+      <title>你管的不是数字而是大脑，核心指标库怎么搭建</title>
+      <itunes:title>你管的不是数字而是大脑，核心指标库怎么搭建</itunes:title>
+      <itunes:episode>6</itunes:episode>
+      <itunes:season>7</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>客户数月增30%、续费率92%——数字挺美，但经不起三个追问。这集讲怎么搭核心指标库：你管的不只是数字，是决策的大脑。别让看似健康的指标，骗过你判断的手。</description>
+      <content:encoded><![CDATA[<p>客户数月增30%、续费率92%——数字挺美，但经不起三个追问。这集讲怎么搭核心指标库：你管的不只是数字，是决策的大脑。别让看似健康的指标，骗过你判断的手。</p>]]></content:encoded>
+      <itunes:duration>21:04</itunes:duration>
+      <pubDate>Sat, 10 Oct 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S07E06.mp3" length="30336000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S07E06.mp3</guid>
+    </item>
+    <item>
+      <title>找到这个行业所有人都在引用的那篇专利，引证分析法</title>
+      <itunes:title>找到这个行业所有人都在引用的那篇专利，引证分析法</itunes:title>
+      <itunes:episode>7</itunes:episode>
+      <itunes:season>7</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>你研究完上百篇专利，唯独没看谁引用了谁——结果发现三年前丰田就写过了。这集讲被严重低估的引证分析法：顺着引用链，找到全行业都在引用的那篇源头专利。</description>
+      <content:encoded><![CDATA[<p>你研究完上百篇专利，唯独没看谁引用了谁——结果发现三年前丰田就写过了。这集讲被严重低估的引证分析法：顺着引用链，找到全行业都在引用的那篇源头专利。</p>]]></content:encoded>
+      <itunes:duration>20:19</itunes:duration>
+      <pubDate>Sun, 11 Oct 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S07E07.mp3" length="29256000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S07E07.mp3</guid>
+    </item>
+    <item>
+      <title>一张图让投资人说卧槽，数据可视化的引爆点</title>
+      <itunes:title>一张图让投资人说卧槽，数据可视化的引爆点</itunes:title>
+      <itunes:episode>8</itunes:episode>
+      <itunes:season>7</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>投资人翻你的BP只有九十秒，密密麻麻的文字就是一片灰色的墙。这集教你数据可视化的引爆点：一张图让投资人停下来、放大看、掏手机拍照——那就是你融资的敲门砖。</description>
+      <content:encoded><![CDATA[<p>投资人翻你的BP只有九十秒，密密麻麻的文字就是一片灰色的墙。这集教你数据可视化的引爆点：一张图让投资人停下来、放大看、掏手机拍照——那就是你融资的敲门砖。</p>]]></content:encoded>
+      <itunes:duration>21:07</itunes:duration>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S07E08.mp3" length="30408000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S07E08.mp3</guid>
+    </item>
+    <item>
+      <title>别吹你的技术多牛，用五个数字把真实底牌亮出来</title>
+      <itunes:title>别吹你的技术多牛，用五个数字把真实底牌亮出来</itunes:title>
+      <itunes:episode>9</itunes:episode>
+      <itunes:season>7</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>“技术非常领先、团队非常优秀”——形容词拉满的BP，投资人五页就翻完了。这集教你用五个数字把真实底牌亮出来，把“我觉得领先”变成能核实的证据。数字不会撒谎。</description>
+      <content:encoded><![CDATA[<p>“技术非常领先、团队非常优秀”——形容词拉满的BP，投资人五页就翻完了。这集教你用五个数字把真实底牌亮出来，把“我觉得领先”变成能核实的证据。数字不会撒谎。</p>]]></content:encoded>
+      <itunes:duration>20:22</itunes:duration>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S07E09.mp3" length="29328000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S07E09.mp3</guid>
+    </item>
+    <item>
+      <title>IP大数据怎么做商业决策，五个关键连接就够了</title>
+      <itunes:title>IP大数据怎么做商业决策，五个关键连接就够了</itunes:title>
+      <itunes:episode>10</itunes:episode>
+      <itunes:season>7</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>学了九集大数据方法，图也画了，表也做了——数据不变成决策，就是一堆服务器电费。第七季收官：王老师的五个连接，用投资人视角翻译成五件明天就能干的事，让数据真正变成钱。</description>
+      <content:encoded><![CDATA[<p>学了九集大数据方法，图也画了，表也做了——数据不变成决策，就是一堆服务器电费。第七季收官：王老师的五个连接，用投资人视角翻译成五件明天就能干的事，让数据真正变成钱。</p>]]></content:encoded>
+      <itunes:duration>19:40</itunes:duration>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S07E10.mp3" length="28320000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S07E10.mp3</guid>
+    </item>
+    <item>
+      <title>从知道到做到有多远，三层地图帮你看清技术转移全貌</title>
+      <itunes:title>从知道到做到有多远，三层地图帮你看清技术转移全貌</itunes:title>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>8</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>看懂技术离赚到钱，中间隔着银河系。中国高校专利真正转化的不到10%，剩下的在数据库里吃灰、年年续费。这集给你一张三层地图——战略、战术、操作，看清技术转移全貌。</description>
+      <content:encoded><![CDATA[<p>看懂技术离赚到钱，中间隔着银河系。中国高校专利真正转化的不到10%，剩下的在数据库里吃灰、年年续费。这集给你一张三层地图——战略、战术、操作，看清技术转移全貌。</p>]]></content:encoded>
+      <itunes:duration>40:17</itunes:duration>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S08E01.mp3" length="58008000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S08E01.mp3</guid>
+    </item>
+    <item>
+      <title>合同签错一个字可能亏几百万，四个要命条款拆解</title>
+      <itunes:title>合同签错一个字可能亏几百万，四个要命条款拆解</itunes:title>
+      <itunes:episode>2</itunes:episode>
+      <itunes:season>8</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>合同签完战争才开始，80%的麻烦在签字前就能用四个条款避开：标的价款、转化方式、收益分配、后续改进。每个条款背后都是几百万的教训，这集用投资人视角拆给你看。</description>
+      <content:encoded><![CDATA[<p>合同签完战争才开始，80%的麻烦在签字前就能用四个条款避开：标的价款、转化方式、收益分配、后续改进。每个条款背后都是几百万的教训，这集用投资人视角拆给你看。</p>]]></content:encoded>
+      <itunes:duration>27:10</itunes:duration>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S08E02.mp3" length="39120000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S08E02.mp3</guid>
+    </item>
+    <item>
+      <title>你的技术在第几级，TRL九级成熟度台阶测一下</title>
+      <itunes:title>你的技术在第几级，TRL九级成熟度台阶测一下</itunes:title>
+      <itunes:episode>3</itunes:episode>
+      <itunes:season>8</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>如果只能用一个指标判断技术离赚钱还有多远，那就是TRL。这把NASA造出来给火箭用的尺子，现在用来量你的技术成熟度。这集带你爬九级台阶，测测自己站在第几级。</description>
+      <content:encoded><![CDATA[<p>如果只能用一个指标判断技术离赚钱还有多远，那就是TRL。这把NASA造出来给火箭用的尺子，现在用来量你的技术成熟度。这集带你爬九级台阶，测测自己站在第几级。</p>]]></content:encoded>
+      <itunes:duration>25:55</itunes:duration>
+      <pubDate>Sat, 17 Oct 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S08E03.mp3" length="37320000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S08E03.mp3</guid>
+    </item>
+    <item>
+      <title>别人的坑你不一定非得自己跳，复盘别人的失败</title>
+      <itunes:title>别人的坑你不一定非得自己跳，复盘别人的失败</itunes:title>
+      <itunes:episode>4</itunes:episode>
+      <itunes:season>8</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>“我的技术这么好，肯定有人要”——这是搞钱的技术人最大的幻觉。技术转移成功率乐观估计不超过30%，失败不可怕，可怕的是不总结。这集复盘别人的坑，你不用真金白银再跳一遍。</description>
+      <content:encoded><![CDATA[<p>“我的技术这么好，肯定有人要”——这是搞钱的技术人最大的幻觉。技术转移成功率乐观估计不超过30%，失败不可怕，可怕的是不总结。这集复盘别人的坑，你不用真金白银再跳一遍。</p>]]></content:encoded>
+      <itunes:duration>25:47</itunes:duration>
+      <pubDate>Sun, 18 Oct 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S08E04.mp3" length="37128000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S08E04.mp3</guid>
+    </item>
+    <item>
+      <title>你缺的不是项目而是一个筛子，六维雷达图来筛选</title>
+      <itunes:title>你缺的不是项目而是一个筛子，六维雷达图来筛选</itunes:title>
+      <itunes:episode>5</itunes:episode>
+      <itunes:season>8</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>你缺的不是项目——是筛子。一个省级技术交易市场挂牌的项目轻松过万，没有筛子你会被项目淹死。这集教你六维雷达图，从几百个项目里快速挑出值得投入的那三五个。</description>
+      <content:encoded><![CDATA[<p>你缺的不是项目——是筛子。一个省级技术交易市场挂牌的项目轻松过万，没有筛子你会被项目淹死。这集教你六维雷达图，从几百个项目里快速挑出值得投入的那三五个。</p>]]></content:encoded>
+      <itunes:duration>21:31</itunes:duration>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S08E05.mp3" length="30984000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S08E05.mp3</guid>
+    </item>
+    <item>
+      <title>见了多少客户不重要，关键看成交转化率</title>
+      <itunes:title>见了多少客户不重要，关键看成交转化率</itunes:title>
+      <itunes:episode>6</itunes:episode>
+      <itunes:season>8</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>上个月见了十二个客户，他们各自卡在哪个阶段你答得上来吗？答不上来，你就是在用见客户的勤奋，掩盖做转化的无能。这集教你盯住成交转化率，别拿跑客户当KPI。</description>
+      <content:encoded><![CDATA[<p>上个月见了十二个客户，他们各自卡在哪个阶段你答得上来吗？答不上来，你就是在用见客户的勤奋，掩盖做转化的无能。这集教你盯住成交转化率，别拿跑客户当KPI。</p>]]></content:encoded>
+      <itunes:duration>25:53</itunes:duration>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S08E06.mp3" length="37272000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S08E06.mp3</guid>
+    </item>
+    <item>
+      <title>合同签完就完了吗，战斗才刚开始，运营支持</title>
+      <itunes:title>合同签完就完了吗，战斗才刚开始，运营支持</itunes:title>
+      <itunes:episode>7</itunes:episode>
+      <itunes:season>8</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>转化后24个月内能不能稳定运行，才是项目成功的试金石——将近40%的项目栽在“转化后支持跟不上”。这集讲合同签完之后的战斗：运营支持怎么做，别当甩手掌柜。</description>
+      <content:encoded><![CDATA[<p>转化后24个月内能不能稳定运行，才是项目成功的试金石——将近40%的项目栽在“转化后支持跟不上”。这集讲合同签完之后的战斗：运营支持怎么做，别当甩手掌柜。</p>]]></content:encoded>
+      <itunes:duration>30:12</itunes:duration>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S08E07.mp3" length="43488000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S08E07.mp3</guid>
+    </item>
+    <item>
+      <title>自己干还是卖了，三个真实案例帮你算清楚</title>
+      <itunes:title>自己干还是卖了，三个真实案例帮你算清楚</itunes:title>
+      <itunes:episode>8</itunes:episode>
+      <itunes:season>8</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>临门一脚最难踢：自己干、合伙干，还是整体卖了？这个决策错了，可能两年后才显形，那时窗口期早关了。这集用三个真实案例，帮你把转化路径这笔账算清楚。</description>
+      <content:encoded><![CDATA[<p>临门一脚最难踢：自己干、合伙干，还是整体卖了？这个决策错了，可能两年后才显形，那时窗口期早关了。这集用三个真实案例，帮你把转化路径这笔账算清楚。</p>]]></content:encoded>
+      <itunes:duration>25:59</itunes:duration>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S08E08.mp3" length="37416000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S08E08.mp3</guid>
+    </item>
+    <item>
+      <title>一次转化赚的是钱二次转化赚的是生态，复利玩法</title>
+      <itunes:title>一次转化赚的是钱二次转化赚的是生态，复利玩法</itunes:title>
+      <itunes:episode>9</itunes:episode>
+      <itunes:season>8</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>一次转化赚的是钱，二次转化赚的是生态。如果认知只停在“把一笔转化做成”，你永远在找下一个项目的循环里转。这集讲复利玩法：怎么从高级中介升级，让项目自己来找你。</description>
+      <content:encoded><![CDATA[<p>一次转化赚的是钱，二次转化赚的是生态。如果认知只停在“把一笔转化做成”，你永远在找下一个项目的循环里转。这集讲复利玩法：怎么从高级中介升级，让项目自己来找你。</p>]]></content:encoded>
+      <itunes:duration>29:53</itunes:duration>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S08E09.mp3" length="43032000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S08E09.mp3</guid>
+    </item>
+    <item>
+      <title>技术很好客户为什么不买，需求和技术匹配是门学问</title>
+      <itunes:title>技术很好客户为什么不买，需求和技术匹配是门学问</itunes:title>
+      <itunes:episode>10</itunes:episode>
+      <itunes:season>8</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>技术很好客户就是不买，问题多半出在需求匹配上。好技术和有人要是两件完全独立的事。第八季收官：不讲操作讲战略，从“做成转化”升级到“建生态”，别当十年高级中介。</description>
+      <content:encoded><![CDATA[<p>技术很好客户就是不买，问题多半出在需求匹配上。好技术和有人要是两件完全独立的事。第八季收官：不讲操作讲战略，从“做成转化”升级到“建生态”，别当十年高级中介。</p>]]></content:encoded>
+      <itunes:duration>27:47</itunes:duration>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S08E10.mp3" length="40008000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S08E10.mp3</guid>
+    </item>
+    <item>
+      <title>搞钱的技术人不是中介而是超级节点，重新定义自己</title>
+      <itunes:title>搞钱的技术人不是中介而是超级节点，重新定义自己</itunes:title>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>9</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>“怎么做”是术，“你是谁”是道。第九季开篇，也是最重要的一集——回答的不是怎么干活，而是你到底是中介还是超级节点。这个答案，决定五年后站在行业顶端的人是不是你。</description>
+      <content:encoded><![CDATA[<p>“怎么做”是术，“你是谁”是道。第九季开篇，也是最重要的一集——回答的不是怎么干活，而是你到底是中介还是超级节点。这个答案，决定五年后站在行业顶端的人是不是你。</p>]]></content:encoded>
+      <itunes:duration>24:55</itunes:duration>
+      <pubDate>Sun, 25 Oct 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S09E01.mp3" length="35880000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S09E01.mp3</guid>
+    </item>
+    <item>
+      <title>比对手早半年发现机会，五类数据挖掘法教给你</title>
+      <itunes:title>比对手早半年发现机会，五类数据挖掘法教给你</itunes:title>
+      <itunes:episode>2</itunes:episode>
+      <itunes:season>9</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>没有雷达，你就是在黑暗里用肉眼摸路。这集给你一张机会雷达图：行业空白、政策窗口、资本窗口、人才窗口、IP稀缺点——五类数据挖掘法，让你比对手早半年看见机会。</description>
+      <content:encoded><![CDATA[<p>没有雷达，你就是在黑暗里用肉眼摸路。这集给你一张机会雷达图：行业空白、政策窗口、资本窗口、人才窗口、IP稀缺点——五类数据挖掘法，让你比对手早半年看见机会。</p>]]></content:encoded>
+      <itunes:duration>22:17</itunes:duration>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S09E02.mp3" length="32088000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S09E02.mp3</guid>
+    </item>
+    <item>
+      <title>一张专利排名表能干五件事，找客户只是入门</title>
+      <itunes:title>一张专利排名表能干五件事，找客户只是入门</itunes:title>
+      <itunes:episode>3</itunes:episode>
+      <itunes:season>9</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>看专利榜单只知道“找客户”？你手里一把瑞士军刀，只用来开啤酒瓶。同一份榜单五种用法，对应五个赚钱动作。这集把五个刀片全弹出来——找客户只是入门。</description>
+      <content:encoded><![CDATA[<p>看专利榜单只知道“找客户”？你手里一把瑞士军刀，只用来开啤酒瓶。同一份榜单五种用法，对应五个赚钱动作。这集把五个刀片全弹出来——找客户只是入门。</p>]]></content:encoded>
+      <itunes:duration>20:42</itunes:duration>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S09E03.mp3" length="29808000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S09E03.mp3</guid>
+    </item>
+    <item>
+      <title>怎么从垃圾堆里捡黄金，唤醒沉睡专利的操作</title>
+      <itunes:title>怎么从垃圾堆里捡黄金，唤醒沉睡专利的操作</itunes:title>
+      <itunes:episode>4</itunes:episode>
+      <itunes:season>9</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>中国有效发明专利500万件，真正商业化的不到10%。剩下的不是垃圾——相当一部分只是“睡着了”。这集教你识别沉睡专利、把它唤醒：从垃圾堆里捡黄金，靠的是方法不是运气。</description>
+      <content:encoded><![CDATA[<p>中国有效发明专利500万件，真正商业化的不到10%。剩下的不是垃圾——相当一部分只是“睡着了”。这集教你识别沉睡专利、把它唤醒：从垃圾堆里捡黄金，靠的是方法不是运气。</p>]]></content:encoded>
+      <itunes:duration>21:00</itunes:duration>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S09E04.mp3" length="30240000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S09E04.mp3</guid>
+    </item>
+    <item>
+      <title>高校专利为什么总走不完最后一公里，拆解死结</title>
+      <itunes:title>高校专利为什么总走不完最后一公里，拆解死结</itunes:title>
+      <itunes:episode>5</itunes:episode>
+      <itunes:season>9</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>一个985高校一年申请1200件专利，真正实现商业转化的只有8件。最后一公里，看似最短实则最难。这集拆解墙上那几块大石头：高校专利为什么总走不完最后一公里。</description>
+      <content:encoded><![CDATA[<p>一个985高校一年申请1200件专利，真正实现商业转化的只有8件。最后一公里，看似最短实则最难。这集拆解墙上那几块大石头：高校专利为什么总走不完最后一公里。</p>]]></content:encoded>
+      <itunes:duration>21:27</itunes:duration>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S09E05.mp3" length="30888000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S09E05.mp3</guid>
+    </item>
+    <item>
+      <title>大学和企业之间缺的不是路而是五座桥</title>
+      <itunes:title>大学和企业之间缺的不是路而是五座桥</itunes:title>
+      <itunes:episode>6</itunes:episode>
+      <itunes:season>9</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>墙上有石头，但桥也有五座：概念验证中心、共享中试平台、联合研发机制、双导师制、联合学位项目。这集讲每座桥怎么建、有什么坑、用什么指标衡量——都配本土案例，不是欧美专属。</description>
+      <content:encoded><![CDATA[<p>墙上有石头，但桥也有五座：概念验证中心、共享中试平台、联合研发机制、双导师制、联合学位项目。这集讲每座桥怎么建、有什么坑、用什么指标衡量——都配本土案例，不是欧美专属。</p>]]></content:encoded>
+      <itunes:duration>22:17</itunes:duration>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S09E06.mp3" length="32088000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S09E06.mp3</guid>
+    </item>
+    <item>
+      <title>你的潜在客户卡在转化漏斗的哪一层，定位一下</title>
+      <itunes:title>你的潜在客户卡在转化漏斗的哪一层，定位一下</itunes:title>
+      <itunes:episode>7</itunes:episode>
+      <itunes:season>9</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>技术转移的漏斗跟卖SaaS完全两码事：决策链条可能五个部门八个人，周期长十倍，任何一环断了漏斗就漏空。这集给你一套专用六段漏斗，定位你的客户卡在哪一层。</description>
+      <content:encoded><![CDATA[<p>技术转移的漏斗跟卖SaaS完全两码事：决策链条可能五个部门八个人，周期长十倍，任何一环断了漏斗就漏空。这集给你一套专用六段漏斗，定位你的客户卡在哪一层。</p>]]></content:encoded>
+      <itunes:duration>21:32</itunes:duration>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S09E07.mp3" length="31008000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S09E07.mp3</guid>
+    </item>
+    <item>
+      <title>空着手去见客户不行，怎么带数据弹药进去</title>
+      <itunes:title>空着手去见客户不行，怎么带数据弹药进去</itunes:title>
+      <itunes:episode>8</itunes:episode>
+      <itunes:season>9</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>明天早上九点你走进客户会议室，该干什么？这集是全季最实操的一集：数据驱动的客户拜访全套标准动作，见前、见中、见后每个环节都有具体动作——照着做就行，每个步骤背后都有血泪撑腰。</description>
+      <content:encoded><![CDATA[<p>明天早上九点你走进客户会议室，该干什么？这集是全季最实操的一集：数据驱动的客户拜访全套标准动作，见前、见中、见后每个环节都有具体动作——照着做就行，每个步骤背后都有血泪撑腰。</p>]]></content:encoded>
+      <itunes:duration>20:26</itunes:duration>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S09E08.mp3" length="29424000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S09E08.mp3</guid>
+    </item>
+    <item>
+      <title>别人的成功路不一定适合你，高校IP五种模式</title>
+      <itunes:title>别人的成功路不一定适合你，高校IP五种模式</itunes:title>
+      <itunes:episode>9</itunes:episode>
+      <itunes:season>9</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>一个发过Nature子刊、引用上千次的教授，坐在我面前问“我的技术该走哪条路”——五种模式越研究越不敢选。这集把转让、许可、创业孵化五种模式掰开揉碎：别人的成功路，不一定适合你。</description>
+      <content:encoded><![CDATA[<p>一个发过Nature子刊、引用上千次的教授，坐在我面前问“我的技术该走哪条路”——五种模式越研究越不敢选。这集把转让、许可、创业孵化五种模式掰开揉碎：别人的成功路，不一定适合你。</p>]]></content:encoded>
+      <itunes:duration>21:02</itunes:duration>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S09E09.mp3" length="30288000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S09E09.mp3</guid>
+    </item>
+    <item>
+      <title>怎么从随时可被替代到非你不可，个人IP五项修炼</title>
+      <itunes:title>怎么从随时可被替代到非你不可，个人IP五项修炼</itunes:title>
+      <itunes:episode>10</itunes:episode>
+      <itunes:season>9</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>客户把几百万的合同交给你，不是因为你公司大，是因为“你是谁”。这行服务标准化程度极低，个人IP就是你的护城河。第九季收官：五项修炼，让你从随时可被替代变成非你不可。</description>
+      <content:encoded><![CDATA[<p>客户把几百万的合同交给你，不是因为你公司大，是因为“你是谁”。这行服务标准化程度极低，个人IP就是你的护城河。第九季收官：五项修炼，让你从随时可被替代变成非你不可。</p>]]></content:encoded>
+      <itunes:duration>20:28</itunes:duration>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S09E10.mp3" length="29472000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S09E10.mp3</guid>
+    </item>
+    <item>
+      <title>你卡在哪个阶段，五级台阶看看自己到第几级了</title>
+      <itunes:title>你卡在哪个阶段，五级台阶看看自己到第几级了</itunes:title>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>10</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>第十季，最后一季。搞钱的技术人有一条隐藏的成长阶梯：五级，从实习生到合伙人——大多数人一辈子卡在二三之间，不是能力不够，是不知道下一级该练什么功。这集把灯打开，看看你到第几级了。</description>
+      <content:encoded><![CDATA[<p>第十季，最后一季。搞钱的技术人有一条隐藏的成长阶梯：五级，从实习生到合伙人——大多数人一辈子卡在二三之间，不是能力不够，是不知道下一级该练什么功。这集把灯打开，看看你到第几级了。</p>]]></content:encoded>
+      <itunes:duration>21:06</itunes:duration>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S10E01.mp3" length="30384000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S10E01.mp3</guid>
+    </item>
+    <item>
+      <title>怎么让全行业第一个想到你，影响力构建五个维度</title>
+      <itunes:title>怎么让全行业第一个想到你，影响力构建五个维度</itunes:title>
+      <itunes:episode>2</itunes:episode>
+      <itunes:season>10</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>你认识行业里最有影响力的那个人吗？他不是最大最强的，却是你遇到问题第一个想起、打开微信就搜他名字的人。这集讲影响力构建的五个维度：让全行业第一个想到你，而不是永远被问“你是哪家机构的”。</description>
+      <content:encoded><![CDATA[<p>你认识行业里最有影响力的那个人吗？他不是最大最强的，却是你遇到问题第一个想起、打开微信就搜他名字的人。这集讲影响力构建的五个维度：让全行业第一个想到你，而不是永远被问“你是哪家机构的”。</p>]]></content:encoded>
+      <itunes:duration>20:36</itunes:duration>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S10E02.mp3" length="29664000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S10E02.mp3</guid>
+    </item>
+    <item>
+      <title>你的书房决定了你的段位，搞钱技术人必读书单</title>
+      <itunes:title>你的书房决定了你的段位，搞钱技术人必读书单</itunes:title>
+      <itunes:episode>3</itunes:episode>
+      <itunes:season>10</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>我进你办公室先看书架：全是没翻过的畅销书？基本可以判断天花板了。书柜暴露段位。这集给你一份搞钱的技术人的必读书单——该读什么、怎么读，别买书安慰自己。</description>
+      <content:encoded><![CDATA[<p>我进你办公室先看书架：全是没翻过的畅销书？基本可以判断天花板了。书柜暴露段位。这集给你一份搞钱的技术人的必读书单——该读什么、怎么读，别买书安慰自己。</p>]]></content:encoded>
+      <itunes:duration>21:30</itunes:duration>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S10E03.mp3" length="30960000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S10E03.mp3</guid>
+    </item>
+    <item>
+      <title>你的日历不会撒谎，别用忙来麻痹自己</title>
+      <itunes:title>你的日历不会撒谎，别用忙来麻痹自己</itunes:title>
+      <itunes:episode>4</itunes:episode>
+      <itunes:season>10</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>忙到晚上十点、日历被别人的会填满，年底复盘发现全是浪费生命。大部分人不是真的忙，是用忙麻痹自己对方向感的缺失。这集不教番茄钟，教你直面那个问题：现在做的事，一年后回头看值吗。</description>
+      <content:encoded><![CDATA[<p>忙到晚上十点、日历被别人的会填满，年底复盘发现全是浪费生命。大部分人不是真的忙，是用忙麻痹自己对方向感的缺失。这集不教番茄钟，教你直面那个问题：现在做的事，一年后回头看值吗。</p>]]></content:encoded>
+      <itunes:duration>20:13</itunes:duration>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S10E04.mp3" length="29112000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S10E04.mp3</guid>
+    </item>
+    <item>
+      <title>哪张证书真有用哪张浪费生命，帮你排除掉</title>
+      <itunes:title>哪张证书真有用哪张浪费生命，帮你排除掉</itunes:title>
+      <itunes:episode>5</itunes:episode>
+      <itunes:season>10</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>一个入行八年的人考了七张证、花了四五十万，问他哪张直接带来过订单，他沉默了。证书是打开门的钥匙，还是抽屉里的废纸？这集把证书分门别类，帮你排除掉浪费生命的那些。</description>
+      <content:encoded><![CDATA[<p>一个入行八年的人考了七张证、花了四五十万，问他哪张直接带来过订单，他沉默了。证书是打开门的钥匙，还是抽屉里的废纸？这集把证书分门别类，帮你排除掉浪费生命的那些。</p>]]></content:encoded>
+      <itunes:duration>20:54</itunes:duration>
+      <pubDate>Sun, 08 Nov 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S10E05.mp3" length="30096000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S10E05.mp3</guid>
+    </item>
+    <item>
+      <title>怎么让别人来找你而不是你到处找人，品牌五步走</title>
+      <itunes:title>怎么让别人来找你而不是你到处找人，品牌五步走</itunes:title>
+      <itunes:episode>6</itunes:episode>
+      <itunes:season>10</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>你的实力如果不被人知道，在商业世界里等于不存在。很多搞钱的技术人对“个人品牌”本能抵触，可客户只记得你老板的名字，你五年就白干了。这集给你品牌五步走：让别人来找你，而不是你到处找人。</description>
+      <content:encoded><![CDATA[<p>你的实力如果不被人知道，在商业世界里等于不存在。很多搞钱的技术人对“个人品牌”本能抵触，可客户只记得你老板的名字，你五年就白干了。这集给你品牌五步走：让别人来找你，而不是你到处找人。</p>]]></content:encoded>
+      <itunes:duration>20:51</itunes:duration>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S10E06.mp3" length="30024000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S10E06.mp3</guid>
+    </item>
+    <item>
+      <title>管人不如搭系统，4321团队管理模型</title>
+      <itunes:title>管人不如搭系统，4321团队管理模型</itunes:title>
+      <itunes:episode>7</itunes:episode>
+      <itunes:season>10</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>单干个个是战神，一带团队战斗力直接腰斩——不是团队拖后腿，是你只会管自己。什么都自己来的结果：三年后你累死，团队还是三年前的样子。这集给你4321团队管理模型：管人不如搭系统。</description>
+      <content:encoded><![CDATA[<p>单干个个是战神，一带团队战斗力直接腰斩——不是团队拖后腿，是你只会管自己。什么都自己来的结果：三年后你累死，团队还是三年前的样子。这集给你4321团队管理模型：管人不如搭系统。</p>]]></content:encoded>
+      <itunes:duration>20:24</itunes:duration>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S10E07.mp3" length="29376000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S10E07.mp3</guid>
+    </item>
+    <item>
+      <title>干不下去了往哪转，大王给你四个转型方向</title>
+      <itunes:title>干不下去了往哪转，大王给你四个转型方向</itunes:title>
+      <itunes:episode>8</itunes:episode>
+      <itunes:season>10</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>每个职业阶段都在给你攒下一跳的燃料。我转行两次：从写专利的案头工作者到操盘手，从机构到自己做投资。转型不是归零重来，是重装系统。这集给你四个转型方向，看看哪条适合你。</description>
+      <content:encoded><![CDATA[<p>每个职业阶段都在给你攒下一跳的燃料。我转行两次：从写专利的案头工作者到操盘手，从机构到自己做投资。转型不是归零重来，是重装系统。这集给你四个转型方向，看看哪条适合你。</p>]]></content:encoded>
+      <itunes:duration>21:12</itunes:duration>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S10E08.mp3" length="30528000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S10E08.mp3</guid>
+    </item>
+    <item>
+      <title>一百集精华浓缩到一集，31张王牌全盘托出</title>
+      <itunes:title>一百集精华浓缩到一集，31张王牌全盘托出</itunes:title>
+      <itunes:episode>9</itunes:episode>
+      <itunes:season>10</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>倒数第二集不打新牌：把前99集浓缩成31张王牌，张张都是干活时能抽出来用的知识武器。正确用法是打印、贴墙上、每天扫一眼——知识三个月不用就忘掉80%，这集就是你的复习提纲。</description>
+      <content:encoded><![CDATA[<p>倒数第二集不打新牌：把前99集浓缩成31张王牌，张张都是干活时能抽出来用的知识武器。正确用法是打印、贴墙上、每天扫一眼——知识三个月不用就忘掉80%，这集就是你的复习提纲。</p>]]></content:encoded>
+      <itunes:duration>28:29</itunes:duration>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S10E09.mp3" length="41016000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S10E09.mp3</guid>
+    </item>
+    <item>
+      <title>最后五个忠告，送给每一位搞钱的技术人</title>
+      <itunes:title>最后五个忠告，送给每一位搞钱的技术人</itunes:title>
+      <itunes:episode>10</itunes:episode>
+      <itunes:season>10</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <description>第100集。不讲方法、不讲工具、不讲模型，讲五句话——我在这个行业滚了这么多年，最想交到你手里的东西。还有那个70多岁老教授的故事。最后一集，我把掏心窝的话说完，你慢慢听。</description>
+      <content:encoded><![CDATA[<p>第100集。不讲方法、不讲工具、不讲模型，讲五句话——我在这个行业滚了这么多年，最想交到你手里的东西。还有那个70多岁老教授的故事。最后一集，我把掏心窝的话说完，你慢慢听。</p>]]></content:encoded>
+      <itunes:duration>20:09</itunes:duration>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S10E10.mp3" length="29016000" type="audio/mpeg" />
+      <guid>https://raw.githubusercontent.com/DEMON987654321/gaoqian/main/episodes/S10E10.mp3</guid>
+    </item>
+  </channel>
+</rss>
